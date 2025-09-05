@@ -6,7 +6,7 @@ It allows users to view real-time weather of their location (using Geolocation A
 
 🚀 Features
 
-✔️ Location-based weather – Detects user location with one click.
+✔️ Location-based weather – Detects user location with one click.<br>
 ✔️ Search weather by city – Enter any city name to get live weather.
 ✔️ Weather details – Temperature, humidity, wind speed, cloudiness, and conditions.
 ✔️ Dynamic icons & flags – Shows weather icons and country flags.
