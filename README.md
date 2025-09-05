@@ -14,9 +14,9 @@ It allows users to view real-time weather of their location (using Geolocation A
 🛠️ Technologies Used <br>
 Frontend: HTML5, CSS3, JavaScript (Vanilla JS)<br>
 APIs:<br>
-  * [OpenWeatherMap API](https://openweathermap.org/api) → Weather data<br>
-  * [FlagCDN API](https://flagcdn.com/) → Country flags<br>
-  * Browser **Geolocation API** → User’s coordinates<br>
+[OpenWeatherMap API](https://openweathermap.org/api) → Weather data<br>
+[FlagCDN API](https://flagcdn.com/) → Country flags<br>
+Browser Geolocation API → User’s coordinates<br>
 
 ⚡ Getting Started <br>
 1️⃣ Clone the repository <br>
@@ -28,8 +28,8 @@ Generate an API Key. <br>
 Replace the placeholder in script.js: <br>
 const API_KEY = "YOUR_API_KEY_HERE"; <br>
 
-3️⃣ Run the Website
-
+3️⃣ Run the Website <br>
+https://akankshaing.github.io/Current-Weather/
 
 📂 Project Structure <br>
 weather-website/ <br>
