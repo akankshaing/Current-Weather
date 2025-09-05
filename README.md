@@ -32,7 +32,7 @@ const API_KEY = "YOUR_API_KEY_HERE"; <br>
 
 
 📂 Project Structure <br>
-weather-website/
+weather-website/ <br>
 │── index.html        # Main HTML page <br>
 │── style.css         # Stylesheet <br>
 │── script.js         # JavaScript logic <br>
