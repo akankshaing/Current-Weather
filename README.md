@@ -18,35 +18,34 @@ APIs:<br>
   * [FlagCDN API](https://flagcdn.com/) → Country flags<br>
   * Browser **Geolocation API** → User’s coordinates<br>
 
-⚡ Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/your-username/weather-website.git
-cd weather-website
-
-2️⃣ Get an API Key
-Create a free account on OpenWeatherMap
-Generate an API Key.
-Replace the placeholder in script.js:
-const API_KEY = "YOUR_API_KEY_HERE";
+⚡ Getting Started <br>
+1️⃣ Clone the repository <br>
+git clone https://github.com/your-username/weather-website.git <br>
+cd weather-website <br>
+2️⃣ Get an API Key <br>
+Create a free account on OpenWeatherMap <br>
+Generate an API Key. <br>
+Replace the placeholder in script.js: <br>
+const API_KEY = "YOUR_API_KEY_HERE"; <br>
 
 3️⃣ Run the Website
 
 
-## 📂 Project Structure
+📂 Project Structure <br>
 weather-website/
-│── index.html        # Main HTML page
-│── style.css         # Stylesheet
-│── script.js         # JavaScript logic
-│── README.md         # Documentation
+│── index.html        # Main HTML page <br>
+│── style.css         # Stylesheet <br>
+│── script.js         # JavaScript logic <br>
+│── README.md         # Documentation <br>
 
 
-🔮 Future Enhancements
+🔮 Future Enhancements <br>
 🌙 Add Dark Mode toggle.<br>
 📅 Show 5-day forecast.<br>
 🔔 Weather alerts for extreme conditions.<br>
 🌐 Multi-language support.<br>
 
-👩‍💻 Author
+👩‍💻 Author <br>
 Developed by Akanksha ✨ <br>
 📌 Contributions & feedback are welcome!<br>
 
