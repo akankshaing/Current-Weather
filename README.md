@@ -48,6 +48,3 @@ weather-website/ <br>
 👩‍💻 Author <br>
 Developed by Akanksha ✨ <br>
 📌 Contributions & feedback are welcome!<br>
-
-
-Do you also want me to **add GitHub Pages / Netlify deployment steps** in the README so that your website link can be live and clickable from the file?
