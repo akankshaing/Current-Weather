@@ -20,7 +20,7 @@ Browser Geolocation API → User’s coordinates<br>
 
 ⚡ Getting Started <br>
 1️⃣ Clone the repository <br>
-git clone https://github.com/your-username/weather-website.git <br>
+git clone (https://akankshaing.github.io/Current-Weather/) <br>
 cd weather-website <br>
 2️⃣ Get an API Key <br>
 Create a free account on OpenWeatherMap <br>
