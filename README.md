@@ -14,7 +14,7 @@ It allows users to view real-time weather of their location (using Geolocation A
 🛠️ Technologies Used <br>
 Frontend: HTML5, CSS3, JavaScript (Vanilla JS)<br>
 APIs:<br>
-[OpenWeatherMap API](https://openweathermap.org/api) → Weather data<br>
+[OpenWeatherMap API] → Weather data<br>
 [FlagCDN API](https://flagcdn.com/) → Country flags<br>
 Browser Geolocation API → User’s coordinates<br>
 
