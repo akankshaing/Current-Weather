@@ -1,7 +1,7 @@
 # 🌍 Weather Website
 A responsive Weather Website built with HTML, CSS, and JavaScript.<br>
 It allows users to view real-time weather of their location (using Geolocation API) or search for weather in any city worldwide (using OpenWeatherMap API).<br>
- 
+  
 🚀 Features<br> 
 ✔️ Location-based weather – Detects user location with one click.<br>
 ✔️ Search weather by city – Enter any city name to get live weather.<br>
